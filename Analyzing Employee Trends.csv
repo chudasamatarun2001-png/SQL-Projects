@@ -4,7 +4,7 @@
 10003,Male,Single,35 - 44,37,R&D,Associates Degree,Other,Laboratory Technician,Travel_Rarely,1,Yes,Ex-Employees,3,0,1,,,,
 10004,Female,Married,25 - 34,33,R&D,Master's Degree,Life Sciences,Research Scientist,Travel_Frequently,1,No,Current Employees,3,1,0,,,,
 10005,Male,Married,25 - 34,27,R&D,High School,Medical,Laboratory Technician,Travel_Rarely,1,No,Current Employees,2,1,0,,,,
-10006,Male,Single,25 - 34,32,R&D,Associates Degree,Life Sciences,Laboratory Technician,Travel_Frequently,1,No,Current Employees,4,1,0,,,Rate = total yes /total,
+10006,Male,Single,25 - 34,32,R&D,Associates Degree,Life Sciences,Laboratory Technician,Travel_Frequently,1,No,Current Employees,4,1,0,,,
 10007,Female,Married,Over 55,59,R&D,Bachelor's Degree,Medical,Laboratory Technician,Travel_Rarely,1,No,Current Employees,1,1,0,,,,
 10008,Male,Divorced,25 - 34,30,R&D,High School,Life Sciences,Laboratory Technician,Travel_Rarely,1,No,Current Employees,3,1,0,,total ,1470,
 10009,Male,Single,35 - 44,38,R&D,Bachelor's Degree,Life Sciences,Manufacturing Director,Travel_Frequently,1,No,Current Employees,3,1,0,,Yes,237,0.16122449
@@ -1469,3 +1469,4 @@
 11468,Male,Single,35 - 44,35,Sales,Master's Degree,Other,Sales Executive,Travel_Frequently,1,Yes,Ex-Employees,4,0,1,,,,
 11469,Male,Single,Under 25,22,R&D,High School,Life Sciences,Research Scientist,Travel_Rarely,1,Yes,Ex-Employees,2,0,1,,,,
 11470,Male,Divorced,Under 25,23,Sales,Bachelor's Degree,Life Sciences,Sales Representative,Travel_Rarely,1,Yes,Ex-Employees,4,0,1,,,,
+
